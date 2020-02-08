@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC>
+	<qresource prefix="/icones">
+		<file>ressources/icons/client.png</file>
+		<file>ressources/icons/employe.png</file>
+		<file>ressources/icons/background.jpg</file>
+		<file>ressources/icons/management.png</file>
+		<file>ressources/icons/back.png</file>
+		<file>ressources/icons/connect.png</file>
+		<file>ressources/icons/exit.png</file>
+		<file>ressources/icons/login_bd_ex.jpg</file>
+		<file>ressources/icons/login_bd1.jpg</file>
+		<file>ressources/icons/login.png</file>
+		<file>ressources/icons/background1337.jpg</file>
+		<file>ressources/icons/new.png</file>
+		<file>ressources/icons/login_bd.jpg</file>
+		<file>ressources/icons/user.png</file>
+		<file>ressources/icons/notif.png</file>
+		<file>ressources/icons/search.png</file>
+		<file>ressources/icons/exres.png</file>
+		<file>ressources/icons/home.png</file>
+		<file>ressources/icons/car.png</file>
+		<file>ressources/icons/res.png</file>
+		<file>ressources/icons/loyalty.png</file>
+		<file>ressources/icons/reserver.png</file>
+		<file>ressources/icons/marque.png</file>
+	</qresource>
+</RCC>
