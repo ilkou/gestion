@@ -8,6 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Qt Framework :
 => link: https://www.qt.io/download-qt-installer
+
 => method: https://guillaumebelz.github.io/qtinstall/install.html
 
 ### Installing
@@ -22,7 +23,7 @@ cd rental-car-manager
 <Qt-path>/5.12.3/clang_64/bin/qmake gestion.pro
 make
 ```
-the application will be created in <app> directory
+the application will be created in 'app' directory
 
 ## Pics
 ![alt text](https://github.com/ilkou/rental-car-manager/blob/master/gestion.png "Accueil")
