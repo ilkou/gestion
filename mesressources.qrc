@@ -1,6 +1,7 @@
 <!DOCTYPE RCC>
 <RCC>
 	<qresource prefix="/icones">
+		<file>ressources/icons/app.png</file>
 		<file>ressources/icons/client.png</file>
 		<file>ressources/icons/employe.png</file>
 		<file>ressources/icons/background.jpg</file>
